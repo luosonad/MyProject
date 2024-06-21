@@ -1,1 +1,1 @@
-# MyProject
+just fun
