@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="979abe43-bcad-4301-b313-4eca1226c6ee" name="express_logitics Mapping">
+      <data-sources db="6e354132-63f6-493a-acdd-2221de7890e5" ddl="e182589c-474a-4ca7-ade5-1483e136ee32" />
+      <scope>
+        <node negative="1">
+          <node kind="schema" qname="express_logistics" />
+          <node kind="database" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
